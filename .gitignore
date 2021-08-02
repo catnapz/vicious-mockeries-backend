@@ -1,0 +1,6 @@
+**/obj/**
+.idea
+packages
+bin
+appsettings.Development.json
+*.sln.DotSettings.user
